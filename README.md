@@ -10,7 +10,7 @@ I work across cloud infrastructure, Kubernetes, CI/CD, infrastructure as code, o
 - **Infrastructure as Code & Automation:** Terraform, Ansible, GitHub Actions, Jenkins, Azure DevOps
 - **Reliability & Observability:** SRE, incident response, root-cause analysis, Dynatrace, Splunk, Prometheus, Grafana, Kibana
 - **Database & Middleware:** Oracle Database, RMAN, RAC, Data Guard, performance tuning, Oracle E-Business Suite, WebLogic
-- **Security & Operations:** IAM, production operations, infrastructure reliability, PCI-DSS, ISO 27001, CIS
+- **Security & Operations:** IAM, production security, cloud security, infrastructure reliability, PCI-DSS
 
 ## Featured repositories
 
