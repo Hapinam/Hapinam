@@ -14,6 +14,9 @@ I work across cloud infrastructure, Kubernetes, CI/CD, infrastructure as code, o
 
 ## Featured repositories
 
+### [VYBE — Every Fan Belongs](https://github.com/Hapinam/vybe-ai)
+Accessibility-first football replay prototype for the Microsoft + Premier League Inside the Game Hackathon 2026. Built with **React, TypeScript, FastAPI**, and optional **Azure AI** integration. Three experiences—Young Fan, Accessible, and Analyst—turn the same **fictional match events** into multilingual commentary, accessible replay controls, and evidence-grounded insights. Azure deployment is planned, not yet live.
+
 ### [Oracle Operations](https://github.com/Hapinam/Oracle_Operations)
 Production-oriented Oracle Database administration toolkit covering operations, security, recovery, Data Guard, RAC, performance, and maintenance.
 
