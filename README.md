@@ -2,7 +2,11 @@
 
 **Senior DevOps, Platform, Cloud & Infrastructure Engineer**
 
-I work across cloud infrastructure, Kubernetes, CI/CD, infrastructure as code, observability, reliability, and enterprise database platforms. My background spans more than 17 years in infrastructure engineering, evolving from Oracle Database and WebLogic administration into multi-cloud operations, DevOps, SRE, and platform engineering.
+I work across cloud infrastructure, Kubernetes, CI/CD, infrastructure as code, observability, reliability, and enterprise database platforms. My background spans more than 18 years in infrastructure engineering, evolving from Oracle Database and WebLogic administration into multi-cloud operations, DevOps, SRE, and platform engineering.
+
+## Current engineering focus
+
+I focus on **platform engineering, cloud infrastructure reliability, and developer enablement** across multi-cloud environments. My current work includes **SAP BTP (Cloud Foundry and Kyma/Kubernetes)**, infrastructure automation, CI/CD, observability, production releases, and incident response. I combine hands-on engineering with cross-team collaboration and technical leadership.
 
 ## Engineering focus
 
